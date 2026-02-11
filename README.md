@@ -1,10 +1,10 @@
 Fruit-Quality-Classification-Benchmark
 A comparative study of MobileNet and EfficientNet for classifying fruit quality (Apples, Bananas, Oranges, Pomegranates) into Good, Bad, and Mixed categories.
 
-Fruit Quality Classification Benchmark
+# Fruit Quality Classification Benchmark
 
-📌 Project Overview
-This project focuses on the automated classification of fruit quality using Deep Learning techniques. The goal is to categorize images of fruits into three distinct classes— Good, **Bad**, and **Mixed**—to assist in agricultural quality control and freshness detection.
+## 📌 Project Overview
+This project focuses on the automated classification of fruit quality using Deep Learning techniques. The goal is to categorize images of fruits into three distinct classes—**Good**, **Bad**, and **Mixed**—to assist in agricultural quality control and freshness detection.
 
 The project evaluates and compares the performance of two popular Convolutional Neural Network (CNN) architectures:
 1.  **MobileNet** (Lightweight, optimized for mobile devices)
@@ -53,4 +53,4 @@ Detailed performance metrics, including **Confusion Matrices** and **Training/Va
 * **Expanded Dataset:** Incorporate more fruit varieties (e.g., Strawberry, Guava).
 
 ## 👤 Author
-[Your Name/Username]
+[Tanishk Nanasaheb Shinde]
