@@ -53,4 +53,4 @@ Detailed performance metrics, including **Confusion Matrices** and **Training/Va
 * **Expanded Dataset:** Incorporate more fruit varieties (e.g., Strawberry, Guava).
 
 ## 👤 Author
-[Tanishk Nanasaheb Shinde]
+*Tanishk Nanasaheb Shinde*
